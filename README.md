@@ -1,4 +1,5 @@
 # BRUTEFOX - Firefox with steroids
+🇧🇷 Para o tutorial em português clique [aqui](https://github.com/cristiancmoises/brutefox/blob/main/LEIA-ME.md)
 
 ![bRUTE(1)](https://github.com/cristiancmoises/brutefox/assets/86272521/15afb340-af3f-4c3b-b029-d80ab0da59a0)
 
