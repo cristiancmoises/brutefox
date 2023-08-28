@@ -1,4 +1,5 @@
 # BRUTEFOX - Firefox with steroids
+#### 💬 Tutorial on Youtube [here](https://www.youtube.com/embed/FlC7b2z4kHQ)
 🇧🇷 Para o tutorial em português clique [aqui](https://github.com/cristiancmoises/brutefox/blob/main/LEIA-ME.md)
 
 ![bRUTE(1)](https://github.com/cristiancmoises/brutefox/assets/86272521/15afb340-af3f-4c3b-b029-d80ab0da59a0)
@@ -64,3 +65,4 @@ ______________________________________________________________________
 ![image](https://github.com/cristiancmoises/brutefox/assets/86272521/2fcb5977-8270-48cd-9307-f363ee0bdbc3)
 [DarkBG](https://addons.mozilla.org/en-US/firefox/addon/dark-background-light-text/)
 _______________________________________________________________________
+
