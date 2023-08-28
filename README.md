@@ -50,7 +50,8 @@ _*Then press enter_
 [BrowSec](https://addons.mozilla.org/en-US/firefox/addon/browsec/)
 ____________________________________________________________________
 ### FOR PARANOIDS:
-![image](https://github.com/cristiancmoises/brutefox/assets/86272521/0a0512cb-2672-4e79-bf84-7be9772adae2)
+<img src="https://github.com/cristiancmoises/brutefox/assets/86272521/0a0512cb-2672-4e79-bf84-7be9772adae2" width=60% height=60%>
+
 ![image](https://github.com/cristiancmoises/brutefox/assets/86272521/e6aa98fd-6dc8-4a2f-abe5-79f822e131f5)
 [NOScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/)
 ![image](https://github.com/cristiancmoises/brutefox/assets/86272521/724a9ca5-3943-4441-8dcb-3e344a1242b8)
