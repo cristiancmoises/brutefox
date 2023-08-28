@@ -3,7 +3,7 @@
 ![bRUTE(1)](https://github.com/cristiancmoises/brutefox/assets/86272521/15afb340-af3f-4c3b-b029-d80ab0da59a0)
 
 > ### INICIE O FIREFOX E DIGITE NA CAIXA DE PESQUISA:
-              sobre:config
+              about:config
 _*Então aperte enter_
 > ### Cole o comando e pesquise, depois altere o valor:
 | COMANDO | VALOR |
