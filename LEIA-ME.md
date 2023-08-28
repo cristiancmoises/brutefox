@@ -1,5 +1,5 @@
 # BRUTEFOX - Firefox com esteróides
-
+#### 💬 Tutorial no Youtube [aqui](https://www.youtube.com/embed/FlC7b2z4kHQ)
 ![bRUTE(1)](https://github.com/cristiancmoises/brutefox/assets/86272521/15afb340-af3f-4c3b-b029-d80ab0da59a0)
 
 > ### INICIE O FIREFOX E DIGITE NA CAIXA DE PESQUISA:
