@@ -65,6 +65,11 @@ ____________________________________________________________________
 [NOScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/)
 ![image](https://github.com/cristiancmoises/brutefox/assets/86272521/724a9ca5-3943-4441-8dcb-3e344a1242b8)
 [LibreJS](https://ftp.gnu.org/gnu/librejs/librejs-7.21.0.xpi)
+
+### Tor configuration:
+Go to network settings > Manual proxy configuration:
+![torando](https://github.com/user-attachments/assets/41aed1f3-1f51-48d6-9fc0-855315e7095e)
+
 ______________________________________________________________________
 ### BONUS - A TRUE DARK BROWSER
 ![image](https://github.com/cristiancmoises/brutefox/assets/86272521/db293502-20d8-45ea-be6b-c417f6160371)
