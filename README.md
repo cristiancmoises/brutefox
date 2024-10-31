@@ -48,9 +48,16 @@ _*Then press enter_
 [PrivacyBadger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
 ![image](https://github.com/cristiancmoises/brutefox/assets/86272521/dccd79b3-c58b-404e-a30b-deba0b8abeab)
 [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
+![image](https://github.com/user-attachments/assets/c83c872f-1fdb-483e-bb85-624c8f01a788)
+[LibRedirect](https://addons.mozilla.org/en-US/firefox/addon/libredirect/)
 ![image](https://github.com/cristiancmoises/brutefox/assets/86272521/cfb0b18a-bd20-4754-ad88-72ee4cd48d2c)
 [BrowSec](https://addons.mozilla.org/en-US/firefox/addon/browsec/)
 ____________________________________________________________________
+### LibRedirect Configuration:
+      [Reddit]: https://libre.securityops.co
+      [Youtube]: https://yt.securityops.co
+      [Wikipedia]: (https://wiki.securityops.co
+
 ### FOR PARANOIDS:
 <img src="https://github.com/cristiancmoises/brutefox/assets/86272521/0a0512cb-2672-4e79-bf84-7be9772adae2" width=60% height=60%>
 
