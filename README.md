@@ -68,7 +68,8 @@ ____________________________________________________________________
 
 ### Tor configuration:
 Go to network settings > Manual proxy configuration:
-![torando](https://github.com/user-attachments/assets/41aed1f3-1f51-48d6-9fc0-855315e7095e)
+![torando](https://github.com/user-attachments/assets/229176a8-fad5-4cfa-8001-0d4253699195)
+
 
 ______________________________________________________________________
 ### BONUS - A TRUE DARK BROWSER
