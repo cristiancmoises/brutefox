@@ -56,7 +56,7 @@ ____________________________________________________________________
 ### LibRedirect Configuration:
       [Reddit]: https://libre.securityops.co
       [Youtube]: https://yt.securityops.co
-      [Wikipedia]: (https://wiki.securityops.co
+      [Wikipedia]: https://wiki.securityops.co
 
 ### FOR PARANOIDS:
 <img src="https://github.com/cristiancmoises/brutefox/assets/86272521/0a0512cb-2672-4e79-bf84-7be9772adae2" width=60% height=60%>
