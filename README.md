@@ -81,4 +81,4 @@ _______________________________________________________________________
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=cristiancmoises/torando&type=Date)](https://star-history.com/#cristiancmoises/brutefox&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=cristiancmoises/brutefox&type=Date)](https://star-history.com/#cristiancmoises/brutefox&Date)
