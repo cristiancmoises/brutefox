@@ -79,3 +79,6 @@ ______________________________________________________________________
 [DarkBG](https://addons.mozilla.org/en-US/firefox/addon/dark-background-light-text/)
 _______________________________________________________________________
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=cristiancmoises/torando&type=Date)](https://star-history.com/#cristiancmoises/brutefox&Date)
