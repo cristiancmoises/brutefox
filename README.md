@@ -4,6 +4,9 @@
 
 ![bRUTE(1)](https://github.com/cristiancmoises/brutefox/assets/86272521/15afb340-af3f-4c3b-b029-d80ab0da59a0)
 
+### For more privacy use:
+<img src="https://github.com/cristiancmoises/torando/assets/86272521/045451b7-545a-4798-9df8-980b122b829d" href="https://github.com/cristiancmoises/torando" width="350"  height="220" />
+
 > ### START FIREFOX AND DIGIT IN THE SEARCH BOX:
              about:config
 _*Then press enter_
