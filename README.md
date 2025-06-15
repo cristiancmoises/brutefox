@@ -6,7 +6,7 @@
 
 ## For More Privacy Use:
 <a href="https://github.com/cristiancmoises/torando" target="_blank">
-  <img src="https://github.com/cristiancmoises/torando/assets/86272521/045451b7-545a-4798-9df8-980b122b829d" width="350" height="220" alt="Image Description"/>
+  <img src="https://github.com/cristiancmoises/torando/assets/86272521/045451b7-545a-4798-9df8-980b122b829d" width="350" height="220" alt="Torando - TOR VPN"/>
 </a>
 
 > ### START FIREFOX AND TYPE IN THE SEARCH BOX:
