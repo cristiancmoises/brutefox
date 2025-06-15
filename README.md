@@ -76,7 +76,8 @@ _*Then press enter_
 [BrowSec](https://addons.mozilla.org/en-US/firefox/addon/browsec/)
 
 ### VPN Recommendation for System-Wide Privacy:
-![image](https://mullvad.net/images/app-logo-dark.png)
+<img src="https://mullvad.net/press/MullvadVPN_logo_Round_RGB_Color_positive.png" width=30% height=30%>
+
 [Mullvad VPN](https://mullvad.net/en)
 - **Purpose**: Masks your IP address, a key fingerprinting component, protecting all internet traffic.
 - **Steps**: Visit [Mullvad VPN](https://mullvad.net/en), generate an account, pay €5/month, download the app, and connect to a server.
